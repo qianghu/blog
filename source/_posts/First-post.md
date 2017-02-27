@@ -1,5 +1,5 @@
 ---
-title: 如何直接将域名指向Github Pages呢?
+title: 如何直接将域名指向Github Pages?
 date: 2017-02-23 17:58:34
 tags: Github
 ---

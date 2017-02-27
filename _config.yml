@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: My blog
+title: Qianghu's blog
 subtitle:
 description:
 author: Qiang Hu
@@ -64,10 +64,16 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
-
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
 avatar: https://dn-coding-net-production-static.qbox.me/e3e8293a-33c2-49dc-8463-78fbcd9770c8.jpeg?imageMogr2/auto-orient/format/jpeg/crop/!331x331a66a0
 
+# 阅读次数统计
+leancloud_visitors:
+  enable: true
+  app_id: RnOvKWnbjcAHQ7sSxY1Ujy9r-gzGzoHsz
+  app_key: LUD4zxBqaimWV6so30OkJjDf
+# 多说评论
+duoshuo_shortname: qianghu
